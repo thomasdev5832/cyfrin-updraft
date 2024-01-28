@@ -21,7 +21,7 @@ Deploy: `forge create` or `forge script`
 
 `forge script <script> --rpc-url <rpc_url> --account <account_name> --sender <address> --broadcast`
 
-Interact: `cast <subcommand>
+Interact with contract: `cast <subcommand>
 `
 
 Local blockchain testnet: `anvil`
@@ -54,5 +54,7 @@ Local blockchain testnet: `anvil`
 
 10 directories, 10 files
 ```
+
+
 
 
