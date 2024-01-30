@@ -17,7 +17,7 @@ Resources:
 
 ## Summary
 
-Create Foundry project: `forge --init`
+Create Foundry project: `forge init`
 
 ### Basic Foundry commands
 
