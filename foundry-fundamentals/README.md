@@ -8,6 +8,10 @@ Resources:
 
 [Repo Cyfrin F23](https://github.com/Cyfrin/foundry-full-course-f23)
 
+[Foundry Simple Storage](./foundry-simple-storage/)
+
+[Foundry Fund Me](./foundry-fund-me/)
+
 ---
 ---
 
